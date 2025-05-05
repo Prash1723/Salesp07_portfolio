@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Solving D lhi pollution**
+ 🔭 I’m currently working on **Solving Delhi pollution**
  
  🌱 I’m currently learning **Javascript, R, Rust**
 
